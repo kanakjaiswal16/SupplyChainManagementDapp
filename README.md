@@ -36,7 +36,7 @@ This is a Decentralized Application that stores the history of goods from the pr
 [solidity-url]: https://docs.soliditylang.org/en/v0.8.20/
 [ethereum]: https://img.shields.io/badge/etherjs-20232A?style=for-the-badge&logo=ethereum&logoColor=ffffff
 [ethereum-url]: https://docs.ethers.org/v5/
-## Authors
+
 
 
   
